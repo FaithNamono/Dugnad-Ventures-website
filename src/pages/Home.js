@@ -30,7 +30,7 @@ const Home = () => {
       title: "Wildlife Majesty",
       category: "photography",
       price: "$450",
-      image: "/images/pt1.jpg",
+      image: "/images/pt2.jpg",
       description: "Wildlife photography"
     },
     {
