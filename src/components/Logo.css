@@ -1,0 +1,32 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.logo-icon {
+  font-size: 2rem;
+  background: linear-gradient(135deg, var(--secondary), var(--accent));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1;
+}
+
+.logo-main {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.logo-sub {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--secondary);
+  letter-spacing: 1px;
+}
